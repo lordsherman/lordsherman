@@ -4,7 +4,9 @@
 - 📫 How to reach me: https://www.linkedin.com/in/kyle-everling/
 - 🌱 I’m currently learning: Python 🐍
 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordsherman&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordsherman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordsherman&show_icons=true&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lordsherman/lordsherman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
