@@ -4,8 +4,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/kyle-everling/
 - 🌱 I’m currently learning: Python 🐍
 
-## Workstation
-![](https://img.shields.io/badge/AMD-Ryzen_7_3900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+## Workstation/s
+![](https://img.shields.io/badge/AMD-Ryzen_9_3900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-RTX2080_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## Top Languages
