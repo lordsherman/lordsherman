@@ -4,10 +4,10 @@
 - 📫 How to reach me: https://www.linkedin.com/in/kyle-everling/
 - 🌱 I’m currently learning: Python 🐍
 
-## Workstation/s
+## Workstation
 ![](https://img.shields.io/badge/AMD-Ryzen_9_3900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-RTX2080_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
+![](https://img.shields.io/badge/Windows-10_Home-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordsherman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## GitHub Stats
