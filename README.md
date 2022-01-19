@@ -11,8 +11,8 @@
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordsherman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lordsherman&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=0E808D&ring=0E808D&fire=0E808D&currStreakNum=0E808D&sideNums=0E808D&currStreakLabel=949698&sideLabels=949698&dates=FFFFFF)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordsherman&count_private=true&theme=synthwave&show_icons=true&hide_title=true&icon_color=109bab&bg_color=0d1117&hide_border=true) <br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lordsherman&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordsherman&count_private=true&theme=chartreuse-dark&show_icons=true&hide_title=true&icon_color=109bab&bg_color=0d1117&hide_border=true) <br>
 
 <!--
 **lordsherman/lordsherman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
