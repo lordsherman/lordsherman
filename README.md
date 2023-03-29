@@ -1,4 +1,4 @@
-### System Administrator by day, Hobbyist coder by night.
+### Infrastructure Engineer, and sometimes like to code.
 
  
 - 📫 How to reach me: https://www.linkedin.com/in/kyle-everling/
