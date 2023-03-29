@@ -1,4 +1,4 @@
-### Infrastructure Engineer, and sometimes like to code.
+### Infrastructure Engineer, and sometimes I like to code.
 
  
 - 📫 How to reach me: https://www.linkedin.com/in/kyle-everling/
