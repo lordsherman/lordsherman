@@ -2,7 +2,7 @@
 
  
 - 📫 How to reach me: https://www.linkedin.com/in/kyle-everling/
-- 🌱 I’m currently learning: Python 🐍
+- 🌱 I’m currently learning: Everything I Can 🤓
 
 ## Workstation
 ![](https://img.shields.io/badge/AMD-Ryzen_9_3900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
